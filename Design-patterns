@@ -1,0 +1,8 @@
+------ Strategy-----
+Different options are available in a page.
+Based on user selection of option, flow will change.
+Here, first create an interface, for the option
+Then, create different classes and implement logic for that option in respective classes
+------Factory-------
+In TEST class, ask the user which option to select
+Based, on user option, we need to ask Factory to give us the required object of the child class of the Interface above
